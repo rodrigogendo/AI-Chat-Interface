@@ -1,3 +1,7 @@
+# Check it on my GitHub Pages
+
+https://rodrigogendo.github.io/AI-Chat-Interface/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
